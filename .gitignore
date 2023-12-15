@@ -1,0 +1,7 @@
+.*
+terraform.tfstate
+terraform.tfstate.backup
+tmp
+InsertDB
+test
+!.gitignore
